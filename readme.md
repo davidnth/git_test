@@ -1,1 +1,0 @@
-This is Davidnth's first git project!
